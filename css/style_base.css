@@ -134,7 +134,8 @@ nav ul li a:hover::before {
   color: var(--decoration-color);
 }
 
-/* spinner| */
+/* spinner| **/
+
 .spinner {
   width: 64px;
   height: 64px;
