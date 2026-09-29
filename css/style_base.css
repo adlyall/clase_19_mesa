@@ -134,7 +134,7 @@ nav ul li a:hover::before {
   color: var(--decoration-color);
 }
 
-/* spinner| ******************************************************************/
+/* spinner| */
 .spinner {
   width: 64px;
   height: 64px;
@@ -152,7 +152,7 @@ nav ul li a:hover::before {
   border-bottom: 10px solid rgb(202, 66, 129);
   border-left: 10px solid rgba(66, 139, 202, 0.2);
   /* animation: ; */
-  animation: giro 2s infinite;
+  animation: giro 1s linear infinite;
 }
 /* keyframes
     crear la animación con la rotación desde el momento 0 y momento 100
